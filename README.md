@@ -1,3 +1,3 @@
 # Calculator
 
-Essa é a minha primeira calculadora, utilizado JavaScript.
+Essa é a minha primeira calculadora, utilizando JavaScript.
